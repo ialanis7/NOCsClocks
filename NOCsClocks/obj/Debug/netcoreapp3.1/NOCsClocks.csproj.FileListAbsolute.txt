@@ -1,0 +1,17 @@
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.exe
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.deps.json
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.runtimeconfig.json
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.runtimeconfig.dev.json
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.dll
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\bin\Debug\netcoreapp3.1\NOCsClocks.pdb
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.Form1.resources
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.Properties.Resources.resources
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.AssemblyInfo.cs
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.dll
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.pdb
+C:\Users\ignac\source\repos\NOCsClocks\NOCsClocks\obj\Debug\netcoreapp3.1\NOCsClocks.genruntimeconfig.cache
